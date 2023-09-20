@@ -1,2 +1,2 @@
-# Geometric Shape Inheritance and Picture Composition in C++
+# Geometric Shape Inheritance and Picture Composition
  
