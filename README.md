@@ -36,9 +36,3 @@ The Geometric Shape Project involves creating a class hierarchy of 2D geometric 
 1. Clone the repository.
 2. Compile the source files using a C++ compiler.
 3. Run the compiled executable to see the demonstration of geometric shapes and their properties.
-
-## Acknowledgments
-
-This project was developed to showcase proficiency in C++ programming, focusing on object-oriented design, class inheritance, and polymorphism.
-
-Feel free to explore the code, experiment with different shapes, and gain insights into the implementation of class hierarchies and polymorphism in C++.
