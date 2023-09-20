@@ -1,4 +1,4 @@
-# Geometric Shapes
+# Geometric Shapes Project
 
 This project showcases my proficiency in C++ programming, specifically focusing on class inheritance, polymorphism, and memory management, within C++. It demonstrates the principles of object-oriented programming, emphasizing class hierarchies and virtual functions to create a modular, reusable, and extensible framework.
 
